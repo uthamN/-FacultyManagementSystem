@@ -1,0 +1,27 @@
+.abc{
+    max-width: 25rem;
+    color: black; 
+    /* background-color: #32398B;   */
+    height: 55vh;
+    padding: 20px;
+    /* border: 1px solid black; */
+}
+.inst_name{
+    color: black;
+}
+
+.list_emp{
+    color: black;
+    list-style: none;
+}
+
+.list_emp li{
+    padding-top: 20px;
+}
+
+.card_emp_details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}

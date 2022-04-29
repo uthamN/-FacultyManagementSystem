@@ -1,0 +1,43 @@
+.det_in{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+}
+
+.det_in h5{
+    width: 100%;
+    color: black;
+    padding-bottom: 7px;
+    padding-top: 7px;
+}
+
+.det_in h6{
+    width: 100%;
+    padding-bottom: 5px;
+}
+
+.stb{
+    width: 50%;
+}
+/* .sb1{
+    width: 10%;
+    color: blue;
+}
+.sb2{
+    width: 25%;
+}
+.sb3{
+    width: 60%;
+}
+.sb4{
+    width: 100%;
+}
+.sb5{
+    width: 50%;
+    background-color: red;
+}*/
+.statusBar{
+    margin-bottom: 100px;
+} 

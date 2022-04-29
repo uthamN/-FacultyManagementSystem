@@ -1,0 +1,10 @@
+h3.main_title{
+    color: white;
+    font-family: 'PT Serif', serif;
+}
+
+.form_border{
+    border: 1px solid #32398B;
+    padding: 35px 15px;
+    margin-bottom: 100px;
+}
